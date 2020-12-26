@@ -5,6 +5,8 @@
 
 Inspired by [100-ways-to-print-HelloWorld-in-java](https://github.com/NachiketaVadera/100-ways-to-print-HelloWorld-in-java).
 
+“Love is that condition in which the happiness of another person is essential to your own.” - Robert A. Heinlein, [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
+
 This is a fun (not that fun for me, currently) project that explores different ways to print "I Love You" in Go. 
 Hopefully, this project reminds you of how precious your loved ones are.
 Before you fork and contribute anything, look away from your screen, turn to that special person in your life, and tell them how much you love them. Life is short, and tomorrow is not promised. Never waste the opportunity to tell someone you love them.
