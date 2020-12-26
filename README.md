@@ -5,7 +5,7 @@
 
 Inspired by [100-ways-to-print-HelloWorld-in-java](https://github.com/NachiketaVadera/100-ways-to-print-HelloWorld-in-java).
 
-“Love is that condition in which the happiness of another person is essential to your own.” - Robert A. Heinlein, [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
+> “Love is that condition in which the happiness of another person is essential to your own.” - Robert A. Heinlein, [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
 
 This is a fun (not that fun for me, currently) project that explores different ways to print "I Love You" in Go. I chose the number 100 because it stops at 99 when counting from 0, and 99 is forever in Chinese culture.
 
