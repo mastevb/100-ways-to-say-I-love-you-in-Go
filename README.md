@@ -15,6 +15,6 @@ Before you fork and contribute anything, and no matter how busy you are (trust m
 
 Life is short, and tomorrow is not promised. Never waste the opportunity to tell someone you love them.
 
-![family](https://github.com/mastevb/100-ways-to-say-I-love-you-in-Go/assets/family.jpeg)
+![family](https://github.com/mastevb/100-ways-to-say-I-love-you-in-Go/blob/main/assets/family.jpeg)
 
 ## Let's get started
